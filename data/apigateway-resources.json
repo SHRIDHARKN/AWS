@@ -1,0 +1,37 @@
+{
+  "000000000000/us-east-1::f9ece88a12::abbde82d" : {
+    "id" : "abbde82d",
+    "apiId" : null,
+    "parentId" : "d09a228b",
+    "pathPart" : "predict",
+    "path" : "/predict",
+    "resourceMethods" : {
+      "POST" : {
+        "httpMethod" : "POST",
+        "authorizationType" : "NONE",
+        "authorizerId" : null,
+        "requestValidatorId" : null,
+        "requestParameters" : { },
+        "requestModels" : { },
+        "methodResponses" : { },
+        "methodIntegration" : {
+          "type" : "AWS_PROXY",
+          "uri" : "arn:aws:apigateway:us-east-1:lambda:path/2015-03-31/functions/arn:aws:lambda:us-east-1:000000000000:function:ml-predictor-v1/invocations",
+          "httpMethod" : "POST",
+          "passthroughBehavior" : "WHEN_NO_MATCH",
+          "requestParameters" : { },
+          "requestTemplates" : { },
+          "integrationResponses" : { }
+        }
+      }
+    }
+  },
+  "000000000000/us-east-1::f9ece88a12::d09a228b" : {
+    "id" : "d09a228b",
+    "apiId" : null,
+    "parentId" : null,
+    "pathPart" : null,
+    "path" : "/",
+    "resourceMethods" : { }
+  }
+}

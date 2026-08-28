@@ -1,0 +1,11 @@
+{
+  "000000000000/us-east-1::f9ece88a12::dev" : {
+    "stageName" : "dev",
+    "deploymentId" : "eda5a1e63a",
+    "description" : null,
+    "variables" : { },
+    "methodSettings" : { },
+    "createdDate" : 1787935720,
+    "lastUpdatedDate" : 1787935720
+  }
+}

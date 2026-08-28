@@ -1,0 +1,13 @@
+{
+  "000000000000/us-east-1::f9ece88a12" : {
+    "id" : "f9ece88a12",
+    "name" : "ml-predictor-api-v1",
+    "description" : null,
+    "createdDate" : 1787935456,
+    "tags" : { },
+    "endpointConfiguration" : {
+      "types" : [ "REGIONAL" ],
+      "vpcEndpointIds" : [ ]
+    }
+  }
+}

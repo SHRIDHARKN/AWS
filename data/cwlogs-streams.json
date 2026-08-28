@@ -1,4 +1,14 @@
 {
+  "000000000000/us-east-1::/aws/lambda/ml-predictor-v1::2026/08/28/[$LATEST]d4f46048" : {
+    "logGroupName" : "/aws/lambda/ml-predictor-v1",
+    "logStreamName" : "2026/08/28/[$LATEST]d4f46048",
+    "createdTime" : 1787935769185,
+    "firstEventTimestamp" : null,
+    "lastEventTimestamp" : null,
+    "lastIngestionTime" : 0,
+    "uploadSequenceToken" : "318fd111-8071-425e-8d4c-c438eb362217",
+    "storedBytes" : 0
+  },
   "000000000000/us-east-1::/aws/lambda/ml-predictor-v1::2026/08/28/[$LATEST]07078ec5" : {
     "logGroupName" : "/aws/lambda/ml-predictor-v1",
     "logStreamName" : "2026/08/28/[$LATEST]07078ec5",

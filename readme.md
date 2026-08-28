@@ -41,3 +41,12 @@ aws lambda invoke \
 
 cat response.json
 ```
+
+# Create REST API
+aws apigateway create-rest-api \
+  --name ml-predictor-api
+
+# Delete REST API
+aws apigateway delete-rest-api \
+  --rest-api-id 3d4a2018ce
+
