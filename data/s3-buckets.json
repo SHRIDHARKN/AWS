@@ -1,0 +1,24 @@
+{
+  "000000000000/awslambda-us-east-1-tasks" : {
+    "name" : "awslambda-us-east-1-tasks",
+    "creationDate" : "2026-08-28T16:26:43.258620515Z",
+    "versioningStatus" : null,
+    "loggingConfiguration" : null,
+    "tags" : { },
+    "notificationConfiguration" : null,
+    "objectLockEnabled" : false,
+    "defaultRetention" : null,
+    "policy" : null,
+    "corsConfiguration" : null,
+    "lifecycleConfiguration" : null,
+    "transitionDefaultMinimumObjectSize" : null,
+    "acl" : null,
+    "encryptionConfiguration" : null,
+    "publicAccessBlockConfiguration" : null,
+    "ownershipControlsConfiguration" : null,
+    "requestPaymentPayer" : null,
+    "region" : "us-east-1",
+    "websiteConfiguration" : null,
+    "versioningEnabled" : false
+  }
+}

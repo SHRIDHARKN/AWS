@@ -1,0 +1,8 @@
+{
+  "000000000000/us-east-1::/aws/lambda/ml-predictor-v1" : {
+    "logGroupName" : "/aws/lambda/ml-predictor-v1",
+    "createdTime" : 1787934444466,
+    "retentionInDays" : null,
+    "tags" : { }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "000000000000/awslambda-us-east-1-tasks/snapshots/000000000000/ml-predictor-v1" : {
+    "bucketName" : "awslambda-us-east-1-tasks",
+    "key" : "snapshots/000000000000/ml-predictor-v1",
+    "metadata" : { },
+    "contentType" : "application/zip",
+    "contentEncoding" : null,
+    "contentDisposition" : null,
+    "cacheControl" : null,
+    "serverSideEncryption" : null,
+    "sseCustomerAlgorithm" : null,
+    "sseCustomerKeyMd5" : null,
+    "size" : 326,
+    "lastModified" : "2026-08-28T16:26:43.400Z",
+    "storageClass" : "STANDARD",
+    "checksum" : {
+      "checksumCRC32" : null,
+      "checksumCRC32C" : null,
+      "checksumCRC64NVME" : "2G2Hypi/CPM=",
+      "checksumSHA1" : null,
+      "checksumSHA256" : null,
+      "checksumType" : "FULL_OBJECT"
+    },
+    "parts" : [ ],
+    "versionId" : null,
+    "deleteMarker" : false,
+    "tags" : { },
+    "objectLockMode" : null,
+    "retainUntilDate" : null,
+    "legalHoldStatus" : null,
+    "acl" : null,
+    "latest" : true,
+    "etag" : "\"8d109827a8e494bdf7fd8252ae21959c\""
+  }
+}
